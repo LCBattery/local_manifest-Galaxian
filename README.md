@@ -1,1 +1,22 @@
-# local_manifest
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <remote name="Andreyka445"
+	    fetch="https://github.com/Andreyka445"
+	    clone-depth="1" />
+      <remote name="sm455"
+	    fetch="https://github.com/sm455"
+	    clone-depth="1" />
+
+ <!-- Device -->
+ <project path="device/nothing/Galaxian" name="device_nothing_Galaxian" remote="Andreyka445" revision="lineage-23.2" />
+
+ <!-- Kernel -->
+ <project path="device/nothing/Galaxian-kernel" name="android_device_nothing_Galaga-kernel" remote="Andreyka445" revision="lineage-23.2" />
+
+ <!--Vendor -->
+ <project path="vendor/tecno/LG8n" name="android_vendor_nothing_galaxian" remote="Andreyka445" revision="lineage-23.2" />
+
+ <!-- Device Support stuffs -->
+ <project path="hardware/mediatek" name="android_hardware_mediatek" remote="sm455" revision="lineage-23.2" />
+ <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="sm455" revision="lineage-23.2"/>
+</manifest>
