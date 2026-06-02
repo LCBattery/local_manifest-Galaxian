@@ -14,7 +14,7 @@
  <project path="device/nothing/Galaxian-kernel" name="android_device_nothing_Galaga-kernel" remote="Andreyka445" revision="lineage-23.2" />
 
  <!--Vendor -->
- <project path="vendor/tecno/LG8n" name="android_vendor_nothing_galaxian" remote="Andreyka445" revision="lineage-23.2" />
+ <project path="vendor/nothing/Galaxian" name="android_vendor_nothing_galaxian" remote="Andreyka445" revision="lineage-23.2" />
 
  <!-- Device Support stuffs -->
  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="sm455" revision="lineage-23.2" />
