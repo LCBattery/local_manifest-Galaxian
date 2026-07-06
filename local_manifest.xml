@@ -15,6 +15,6 @@
 
  <!-- Device Support stuffs -->
  <project path="hardware/mediatek" name="hardware_mediatek" remote="Andreyka445" revision="lineage-23.2" />
- <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="Andreyka445" revision="lineage-23.2"/>
- <project path="vendor/sony/dolby" name="android_vendor_sony_dolby" remote="Andreyka445" revision="sixteen-expressive"/>
+ <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="Andreyka445" revision="lineage-23.2" />
+ <project path="vendor/sony/dolby" name="android_vendor_sony_dolby" remote="Andreyka445" revision="sixteen-expressive" />
 </manifest>
