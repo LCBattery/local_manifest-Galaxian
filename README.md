@@ -3,7 +3,7 @@
 #### Contains:
 <ul>
   <li>device/nothing/Galaxian ← Device Tree</li>
-  <li>device/nothing/Galaxian-kernel ← Prebuilt kernel (A16, MT6878)</li>
+  <li>device/nothing/Galaxian-kernel ← Prebuilt kernel (A17, MT6878)</li>
   <li>vendor/nothing/Galaxian ← Nothing firmware and libraries</li>
   <li>hardware/mediatek ← Common MediaTek hardware stuff</li>
   <li>device/mediatek/sepolicy_vndr ← MediaTek's Vendor SEPolicy</li>
